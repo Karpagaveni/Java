@@ -6,7 +6,6 @@ import java.util.*;
 import java.io.*;
 
 
-//Imran Ahmed
 //Brick Breaker
 //User has ball and paddle and tries to clear the screen of bricks
 
